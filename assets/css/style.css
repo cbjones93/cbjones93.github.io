@@ -777,7 +777,18 @@ p {
   padding-bottom: 60px;
   position: relative;
 }
+#resume img{
+  display: block;
+  margin-left: 400px;
+  margin-right: auto;
 
+}
+#resume h4{
+
+  margin-left: 400px;
+  margin-right: auto;
+
+}
 #journal-blog {
   background: #fff;
   padding-bottom: 30px;
